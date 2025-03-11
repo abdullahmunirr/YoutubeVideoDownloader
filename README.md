@@ -56,7 +56,9 @@ ffmpeg -version
 ### **Step 4: Run the C++ code**
 When prompted, enter a valid YouTube video URL, for example:
 
+```sh
 Enter the YouTube video URL: https://www.youtube.com/watch?v=SomeVideoURL
+```
 
 The video will start downloading and automatically merge into an MP4 file saved in your Downloads folder.
 
