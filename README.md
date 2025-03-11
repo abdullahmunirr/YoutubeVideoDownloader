@@ -1,6 +1,6 @@
 # YouTube Video Downloader in C++
 
-A simple C++ program** that allows you to download YouTube videos in the best available quality and automatically merge audio & video into an MP4 file. 
+A simple C++ program that allows you to download YouTube videos in the best available quality and automatically merge audio & video into an MP4 file. 
 The downloaded videos are saved in the **Downloads folder** on macOS.
 
 ## Features
